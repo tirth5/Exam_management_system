@@ -1,5 +1,5 @@
 # Exam_management_system
-# Admin
+# Admin module
 
 Add The Details Of Exam
 <br>/ Subject
@@ -11,7 +11,7 @@ Add The Details Of Exam
 <br/> Publish Result Of Exam
 <br/> See the results of all the students
 <br/>
-# Student
+# Student module
 Login/Register Functionality
  <br/>View Exam Timetable
 <br/>Giving Exam
