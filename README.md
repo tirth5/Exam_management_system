@@ -2,7 +2,7 @@
 # Admin module
 
 Add The Details Of Exam
-<br>/ Subject
+<br>Subject
 <br/>Exam topic for that subject
 <br/> Date and time for exam
 <br/>Total Number of Questions
