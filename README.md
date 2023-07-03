@@ -12,7 +12,7 @@ Add The Details Of Exam
 <br/> See the results of all the students
 <br/>
 # Student
-<br/>Login/Register Functionality
+Login/Register Functionality
  <br/>View Exam Timetable
 <br/>Giving Exam
 <br/>View Result
