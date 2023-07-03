@@ -1,6 +1,6 @@
 # Exam_management_system
 # Admin
-<br/>
+
 Add The Details Of Exam
 <br>/ Subject
 <br/>Exam topic for that subject
@@ -10,6 +10,7 @@ Add The Details Of Exam
 <br/>Enroll Students 
 <br/> Publish Result Of Exam
 <br/> See the results of all the students
+<br/>
 # Student
 <br/>Login/Register Functionality
  <br/>View Exam Timetable
