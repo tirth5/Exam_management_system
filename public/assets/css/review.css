@@ -1,0 +1,28 @@
+/* Styles for the review question */
+#reviewquestion {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    margin: 20px 0;
+}
+
+/* Styles for the options */
+.card-body div:not(#reviewquestion) {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+/* Styles for the correct answer */
+.card-body div:nth-of-type(5) {
+    font-size: 16px;
+    color: #28a745;
+    margin-bottom: 10px;
+}
+
+/* Styles for the user's answer */
+.card-body div:nth-of-type(6) {
+    font-size: 16px;
+    color: #dc3545;
+    margin-bottom: 20px;
+}
